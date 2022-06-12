@@ -15,8 +15,6 @@ ScriptsOnlyBuild:
     - ShootAction
     NavMeshComponents.dll:
     - UnityEngine.AI.NavMeshSurface
-    NavMeshComponentsEditor.dll:
-    - UnityEditor.AI.NavMeshAssetManager
     Unity.PlasticSCM.Editor.dll:
     - Unity.PlasticSCM.Editor.PlasticWindow
     Unity.Rider.Editor.dll:
@@ -1192,4 +1190,4 @@ ScriptsOnlyBuild:
   - Assets/menu.unity
   - Assets/game_scene.unity
   - Assets/gameover.unity
-  playerPath: C:/Users/dorin/Desktop/JeuFinal/Build/zombienazi.exe
+  playerPath: C:/Users/leoto/OneDrive/Documents/Woka/Projets/ZombieNaziRemake/zombienazi.exe
